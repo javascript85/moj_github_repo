@@ -1,3 +1,6 @@
+//PRVA IZMENA/
+
+
 const fs = require('fs');
 
 fs.mkdir('data/samples/', {recursive: true}, err =>{
